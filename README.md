@@ -5,36 +5,31 @@ PhD Defense — April 11, 2025
 Scripps Research, La Jolla, CA
 
 
-
 ## 📌 Title  
 **Personalizing Type 2 Diabetes Risk Prediction**
 
 
-
-## 🧠 In Plain English  
-I built a smarter, faster way to catch type 2 diabetes early — combining genetic risk and machine learning to reach people current tools miss.   
-The goal is simple: **earlier detection, better outcomes, lower costs.**
-
-
 ## 🔍 What’s the problem?
-Current diabetes screening tools miss people who are truly at risk — and flag people who aren’t.
+Current diabetes screening tools follow a "one-size fits all" approach and miss people who are truly at risk.
 
 ## 💡 What did I do?
-I built a person-centered way to screen for type 2 diabetes using:
+I built a **tailored screening tool** that that adapts to your:
 
-- Genetic risk scores
-- Machine learning
-- Real-world data from diverse populations
+- 🧬 **Genetics**
+- 🩺 **Health history**
+- 🏃 **Lifestyle**
+
+Powered by machine learning and tested on **diverse, real-world populations.**
 
 ## 🚀 Why It Matters  
-- Detects more people at risk — earlier  
-- Works across **diverse, real-world populations**  
-- Saves money
+- Finds high-risk individuals **earlier**
+- Works across **diverse ethnicities**
+- Reduces wasted costs on unnecessary testing  
+- Moves toward **person-centered public health**
 
 
 ## 🔑 One-Line Takeaway  
-**Personalized screening saves lives and money.**
-
+**Tailored screening saves lives and money.**
 
 
 ## 📄 Read the paper  
