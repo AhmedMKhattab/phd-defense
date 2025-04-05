@@ -3,7 +3,8 @@
 # 🎓 Thesis Snapshot
 
 **Ahmed Khattab**  
-PhD Defense — April 11, 2025  
+PhD Defense  
+April 11, 2025   
 Scripps Research, La Jolla, CA
 
 </div>
