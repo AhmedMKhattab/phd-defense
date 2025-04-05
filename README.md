@@ -33,7 +33,6 @@ I built a smarter, faster way to catch type 2 diabetes early — combining genet
 
 
 
-## 📷 QR Code  
-If you'd like, you can embed the QR like this:  
+### 📷 QR Code  
 ![QR code to paper](khattab_ssrn_qr.png)
 
