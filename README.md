@@ -37,7 +37,7 @@ Powered by **machine learning** and tested on **diverse, real-world populations.
 
 
 ## 🔑 One-Line Takeaway  
-**Tailored screening saves lives and money.**
+**Tailored screening** saves lives — and cuts costs.
 
 
 ## 📄 Read the paper  
