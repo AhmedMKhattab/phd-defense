@@ -12,15 +12,24 @@ Scripps Research, La Jolla, CA
 
 
 ## 🧠 In Plain English  
-I built a smarter, faster way to catch type 2 diabetes early — combining genetic risk and machine learning to reach people current tools miss. The goal is simple: **earlier detection, better outcomes, lower costs.**
+I built a smarter, faster way to catch type 2 diabetes early — combining genetic risk and machine learning to reach people current tools miss.   
+The goal is simple: **earlier detection, better outcomes, lower costs.**
 
 
+## 🔍 What’s the problem?
+Current diabetes screening tools miss people who are truly at risk — and flag many who aren’t.
 
-## 💡 Why It Matters  
-- More cases caught earlier — especially in people not flagged by current screening  
+## 💡 What did I do?
+I built a smarter way to screen for type 2 diabetes using:
+
+- Genetic risk scores (PRS)
+- Machine learning
+- Real-world data from diverse populations
+
+## 🚀 Why It Matters  
+- Detects more people at risk — earlier  
 - Works across **diverse, real-world populations**  
-- Scalable, open-source, and **cost-effective**
-
+- Saves money
 
 
 ## 🔑 One-Line Takeaway  
