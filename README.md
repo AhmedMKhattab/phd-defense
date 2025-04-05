@@ -22,7 +22,7 @@ Current diabetes screening tools miss people who are truly at risk — and flag 
 ## 💡 What did I do?
 I built a person-centered way to screen for type 2 diabetes using:
 
-- Genetic risk scores (PRS)
+- Genetic risk scores
 - Machine learning
 - Real-world data from diverse populations
 
