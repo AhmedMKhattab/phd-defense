@@ -12,6 +12,7 @@ Scripps Research, La Jolla, CA
 ## 🔍 What’s the problem?
 Current diabetes screening tools follow a "one-size fits all" approach and miss people who are truly at risk.
 
+
 ## 💡 What did I do?
 I built a **tailored screening tool** that adapts to your:
 
@@ -20,6 +21,7 @@ I built a **tailored screening tool** that adapts to your:
 - 🏃 **Lifestyle**
 
 Powered by **machine learning** and tested on **diverse, real-world populations.**
+
 
 ## 🚀 Why It Matters  
 - Finds high-risk individuals **earlier**
