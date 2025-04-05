@@ -20,7 +20,7 @@ The goal is simple: **earlier detection, better outcomes, lower costs.**
 Current diabetes screening tools miss people who are truly at risk — and flag people who aren’t.
 
 ## 💡 What did I do?
-I built a smarter way to screen for type 2 diabetes using:
+I built a person-centered way to screen for type 2 diabetes using:
 
 - Genetic risk scores (PRS)
 - Machine learning
@@ -33,7 +33,7 @@ I built a smarter way to screen for type 2 diabetes using:
 
 
 ## 🔑 One-Line Takeaway  
-**Smarter screening saves lives and money.**
+**Personalized screening saves lives and money.**
 
 
 
