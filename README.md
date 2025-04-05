@@ -28,7 +28,7 @@ I built a smarter, faster way to catch type 2 diabetes early — combining genet
 ---
 
 ## 📄 Read the paper  
-[👉 preprint](https://www.medrxiv.org/content/10.1101/2024.07.11.603165v1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5062740)
+[👉 preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5062740)
 
 ---
 
