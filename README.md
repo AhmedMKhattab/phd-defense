@@ -17,7 +17,7 @@ The goal is simple: **earlier detection, better outcomes, lower costs.**
 
 
 ## 🔍 What’s the problem?
-Current diabetes screening tools miss people who are truly at risk — and flag many who aren’t.
+Current diabetes screening tools miss people who are truly at risk — and flag people who aren’t.
 
 ## 💡 What did I do?
 I built a smarter way to screen for type 2 diabetes using:
