@@ -5,7 +5,8 @@
 **Ahmed Khattab**  
 PhD Defense  
 April 11, 2025   
-Scripps Research, La Jolla, CA
+Scripps Research  
+La Jolla, CA
 
 </div>
 
