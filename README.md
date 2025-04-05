@@ -37,5 +37,5 @@ Powered by **machine learning** and tested on **diverse, real-world populations.
 
 
 ### 📷 QR Code  
-![QR code to paper](khattab_ssrn_qr.png)
+![QR code to paper](khattab_ssrn_qr_small.png)
 
