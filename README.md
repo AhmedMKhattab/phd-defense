@@ -19,7 +19,7 @@ I built a **tailored screening tool** that that adapts to your:
 - 🩺 **Health history**
 - 🏃 **Lifestyle**
 
-Powered by machine learning and tested on **diverse, real-world populations.**
+Powered by **machine learning** and tested on **diverse, real-world populations.**
 
 ## 🚀 Why It Matters  
 - Finds high-risk individuals **earlier**
