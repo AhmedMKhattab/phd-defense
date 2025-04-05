@@ -1,10 +1,13 @@
-<p align="center">
+<div align="center">
+
 # 🎓 Thesis Snapshot
 
 **Ahmed Khattab**  
 PhD Defense — April 11, 2025  
 Scripps Research, La Jolla, CA
-</p>
+
+</div>
+
 
 ## 📌 Title  
 **Personalizing Type 2 Diabetes Risk Prediction**
