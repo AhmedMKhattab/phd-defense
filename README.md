@@ -45,7 +45,7 @@ Powered by **machine learning** and tested on **diverse, real-world populations.
 
 
 ### More PhD Research:
-👉 [Genome-wide association study for Diabetic Kidney Disease](https://link.springer.com/article/10.1186/s40246-022-00422-y)
+👉 [Genome-wide association study for Diabetic Kidney Disease](https://link.springer.com/article/10.1186/s40246-022-00422-y)  
 👉 [AoUPRS: Polygenic Risk Calculator](https://pmc.ncbi.nlm.nih.gov/articles/PMC11275801/)
 - [Github Tool](https://github.com/AhmedMKhattab/AoUPRS)
 
