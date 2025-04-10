@@ -13,6 +13,7 @@ La Jolla, CA
 
 ## 📌 Title  
 **Personalizing Type 2 Diabetes Risk Prediction**  
+  
 A Machine Learning Approach Integrating Genetics, Phenotypes, and Real-World Data
 
 ## 🔍 What’s the problem?
