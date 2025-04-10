@@ -13,7 +13,7 @@ La Jolla, CA
 
 ## 📌 Title  
 **Personalizing Type 2 Diabetes Risk Prediction**
-
+A Machine Learning Approach Integrating Genetics, Phenotypes, and Real-World Data
 
 ## 🔍 What’s the problem?
 Current diabetes screening tools follow a "one-size fits all" approach and miss people who are truly at risk.
@@ -33,17 +33,19 @@ Powered by **machine learning** and tested on **diverse, real-world populations.
 - Finds high-risk individuals **earlier**
 - Works across **diverse ethnicities**
 - Reduces wasted costs on unnecessary testing  
-- Moves toward **person-centered public health**
+- Paves the way for **person-centered, genetically-informed public health**
 
 
 ## 🔑 One-Line Takeaway  
-**Tailored screening** saves lives — and cuts costs.
+**Tailored screening saves lives — and cuts costs.**
 
 
 ## 📄 Read the paper  
 👉 [SSRN Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5062740)
 
 
-### 📷 QR Code  
-![QR code to paper](khattab_ssrn_qr_small.png)
+### More PhD Research:
+👉 [Genome-wide association study for Diabetic Kidney Disease](https://link.springer.com/article/10.1186/s40246-022-00422-y)
+👉 [AoUPRS: Polygenic Risk Calculator](https://pmc.ncbi.nlm.nih.gov/articles/PMC11275801/)
+- [Github Tool](https://github.com/AhmedMKhattab/AoUPRS)
 
